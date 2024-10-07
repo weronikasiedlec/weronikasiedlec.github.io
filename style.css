@@ -1,0 +1,32 @@
+body
+
+{
+ 
+    background-color: rgb(223, 163, 198);
+}
+
+p
+
+{
+color:rgb(46, 92, 177);
+font-weight: 768;
+font-size: 15pte;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+div
+{
+
+max-width: 700px;
+margin: auto;
+
+}
+
+
+
+#head
+
+{
+    font-size: 28px;
+    text-align: center;
+}
